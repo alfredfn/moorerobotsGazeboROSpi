@@ -1,0 +1,8 @@
+Symlinking /home/alfredfn/mybot_ws/devel/./setup.sh
+Symlinking /home/alfredfn/mybot_ws/devel/./env.sh
+Symlinking /home/alfredfn/mybot_ws/devel/./setup.zsh
+Symlinking /home/alfredfn/mybot_ws/devel/./setup.bash
+Symlinking /home/alfredfn/mybot_ws/devel/./_setup_util.py
+Symlinking /home/alfredfn/mybot_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/alfredfn/mybot_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/alfredfn/mybot_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
